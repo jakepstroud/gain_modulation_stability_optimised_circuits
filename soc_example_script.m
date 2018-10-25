@@ -1,4 +1,4 @@
-%% Script to create and initial 'unstable' weight matrix and a stability-optimised circuit
+%% Script to create an initial 'unstable' weight matrix and a stability-optimised circuit
 
 % This code creates an initial 'unstable' weight matrix W according to
 % (Hennequin et al., Neuron, 2014) and then creates the stability-optimised
